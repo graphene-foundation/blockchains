@@ -26,6 +26,7 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Name | URL |
 | --- | --- |
 | Python Lib |  [python-bitshares](https://github.com/bitshares/python-bitshares) |
+| JS Lib |  [bitsharesjs](https://github.com/bitshares/bitsharesjs) |
 | Main UI |  [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
 | Core Doxygen |  [doxygen](https://bitshares.org/doxygen/) |
 | API documentation | |
@@ -36,3 +37,45 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Name | URL |
 | --- | --- |
 | Python Lib |  [python-peerplays](https://github.com/PBSA/python-peerplays) |
+| JS Lib |  [peerplaysjs-lib](https://github.com/PBSA/peerplaysjs-lib) |
+
+
+### Muse
+
+### Steem
+
+| Name | URL |
+| --- | --- |
+| Python Lib |  [steem-python](https://github.com/steemit/steem-python) 
+| JS Lib |  [steem-js](https://github.com/steemit/steem-js) |
+
+
+### EOS
+
+### YOYOW
+
+### Scorum
+
+| Name | URL |
+| --- | --- |
+| Python Lib |  [scorum-python](https://github.com/scorum/scorum-python) |
+| JS Lib |  [scorum-js](https://github.com/scorum/scorum-js) |
+
+
+### DECENT
+
+### DEIP
+
+### DasCoin
+
+### Gravity
+
+### Golos
+
+### Smoke 
+
+### BitEthereum
+
+
+
+
