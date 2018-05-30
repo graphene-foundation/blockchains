@@ -46,43 +46,35 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | [Smoke](https://smoke.network/) | Socio-economic | no | yes | [smoked](https://github.com/smokenetwork/smoked) | | [More](#smoke) | 
 | [BitEthereum](https://www.bitethereum.io) | Finance | no | no | [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | [More](#bitethereum) | 
 
-### Bitshares
+## Bitshares
 
 [Project Home page](https://bitshares.org/)
 
-Source code:
+### Source code:
 
 | Core | FC | Python | JS | Wallet |
 | --- | --- | --- | --- | --- |
 | [bitshares-core](https://github.com/bitshares/bitshares-core) | [bitshares-fc](https://github.com/bitshares/bitshares-fc) | [python-bitshares](https://github.com/bitshares/python-bitshares) | [bitsharesjs](https://github.com/bitshares/bitsharesjs) | [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
 
-Documentation:
+### Documentation:
 
-| Core | API | Dev | Whitepaper |
-| --- | --- | --- | --- |
-| [doxygen](https://bitshares.org/doxygen/) | | | | 
+* [doxygen](https://bitshares.org/doxygen/)
 
-Explorers:
+### Explorers:
 
-| Explorer  | Description |
-| --- | --- | 
-| [Open Explorer](http://open-explorer.io) | |
-| [CryptoFresh](http://cryptofresh.com/) | |
-| [Bts.AI](https://bts.ai/) | |
-| [Bitshares Scaner](http://www.bitshares-scaner.org/) | |
-| [Bitshares Explorer](http://bitshares-explorer.io) | Mirror of open-explorer.io |
-| [embedded Wallet explorer ]() | |
+* [Open Explorer](http://open-explorer.io)
+* [CryptoFresh](http://cryptofresh.com/)
+* [Bts.AI](https://bts.ai/)
+* [Bitshares Scaner](http://www.bitshares-scaner.org/)
+* [Bitshares Explorer](http://bitshares-explorer.io) - Mirror of open-explorer.io
+* [embedded Wallet explorer ]() 
 
+### Community:
 
+* [BitsharesDEX]()
+* [Discord]()
 
-
-Communication:
-
-| Telegram | Discord | Forum |
-| --- | --- | --- |
-| [BitsharesDEX]() | | | 
-
-### Peerplays
+## Peerplays
 
 [Project Home page](https://www.peerplays.com/)
 
@@ -92,13 +84,13 @@ Communication:
 | JS Lib |  [peerplaysjs-lib](https://github.com/PBSA/peerplaysjs-lib) |
 
 
-### Muse
+## Muse
 
 | Name | URL |
 | --- | --- |
 | JS Lib |  [Muse-JS](https://github.com/themuseblockchain/Muse-JS) |
 
-### Steem
+## Steem
 
 | Name | URL |
 | --- | --- |
@@ -106,11 +98,11 @@ Communication:
 | JS Lib |  [steem-js](https://github.com/steemit/steem-js) |
 
 
-### EOS
+## EOS
 
-### YOYOW
+## YOYOW
 
-### Scorum
+## Scorum
 
 | Name | URL |
 | --- | --- |
@@ -118,23 +110,23 @@ Communication:
 | JS Lib |  [scorum-js](https://github.com/scorum/scorum-js) |
 
 
-### DECENT
+## DECENT
 
 | Name | URL |
 | --- | --- |
 | JS Lib |  [dcorejs-lib](https://github.com/DECENTfoundation/dcorejs-lib) |
 
-### DEIP
+## DEIP
 
-### DasCoin
+## DasCoin
 
-### Gravity
+## Gravity
 
-### Golos
+## Golos
 
-### Smoke 
+## Smoke 
 
-### BitEthereum
+## BitEthereum
 
 
 
