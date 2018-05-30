@@ -144,7 +144,6 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 [Project Home page](https://golos.io/)
 
-
 ### Source code:
 
 | Core | FC | Python | JS | Wallet |
@@ -156,9 +155,19 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 [Project Home page](https://smoke.network/)
 
+### Source code:
+
+| Core | Wallet |
+| --- | --- |
+| [smoked](https://github.com/smokenetwork/smoked) | [smoke-busy](https://github.com/smokenetwork/smoke-busy) |
+
 
 ## BitEthereum
 
 [Project Home page](https://www.bitethereum.io)
 
+### Source code:
 
+| Core | FC | JS |
+| --- | --- | --- |
+| [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | [bitsharesjs](https://github.com/BitethereumFoundation/bitsharesjs) |
