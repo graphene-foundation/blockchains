@@ -64,6 +64,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### DECENT
 
+| Name | URL |
+| --- | --- |
+| JS Lib |  [dcorejs-lib](https://github.com/DECENTfoundation/dcorejs-lib) |
+
 ### DEIP
 
 ### DasCoin
