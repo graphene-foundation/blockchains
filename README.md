@@ -50,14 +50,23 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 [Project Home page](https://bitshares.org/)
 
-| Name | URL |
-| --- | --- |
-| Python Lib |  [python-bitshares](https://github.com/bitshares/python-bitshares) |
-| JS Lib |  [bitsharesjs](https://github.com/bitshares/bitsharesjs) |
-| Main UI |  [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
-| Core Doxygen |  [doxygen](https://bitshares.org/doxygen/) |
-| API documentation | |
-| Developers Telegram | by invitation |
+Source code:
+
+| Core | FC | Python | JS | Wallet |
+| --- | --- | --- | --- | --- |
+| [bitshares-core](https://github.com/bitshares/bitshares-core) | [bitshares-fc](https://github.com/bitshares/bitshares-fc) | [python-bitshares](https://github.com/bitshares/python-bitshares) | [bitsharesjs](https://github.com/bitshares/bitsharesjs) | [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
+
+Documentation:
+
+| Core | API | Dev | Whitepaper |
+| --- | --- | --- | --- |
+| [doxygen](https://bitshares.org/doxygen/) | | | | 
+
+Communication:
+
+| Telegram | Discord | Forum |
+| --- | --- | --- |
+| [BitsharesDEX]() | | | 
 
 ### Peerplays
 
