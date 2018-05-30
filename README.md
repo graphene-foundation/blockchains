@@ -4,26 +4,26 @@ Telegram: https://t.me/joinchat/Dnlz3xIp3s4vR0InTfAs3w
 
 Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchanges and general public:
 
-* [Finance](#finance)
+* Finance
   * [Bitshares](#bitshares)
   * [Gravity](#gravity)
   * [DasCoin](#dascoin)
   * [BitEthereum](#bitethereum)
-* [Socio-Economic](#socio-economic)
+* Socio-Economic
   * [Steem](#steem)
   * [Golos](#golos)
   * [Smoke](#smoke)
   * [YOYOW](#yoyow)
-* [Socio-Betting](#socio-betting)
+* Socio-Betting
   * [Peerplays](#peerplays)
   * [Scorum](#scorum)
-* [Science](#science)
+* Science
   * [DEIP](#deip)
-* [Music](#music)
+* Music
   * [Muse](#muse)
-* [Content](#Content)
+* Content
   * [DECENT](#decent)  
-* [Smart contracts](#smart-contracts)
+* Smart contracts
   * [EOS](#eos)  
 
 ## Bitshares
