@@ -25,6 +25,8 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
   * [DECENT](#decent)  
 * Smart contracts:
   * [EOS](#eos)  
+* Telecom:
+  * [Bubbletone](#bubbletone)
 
 ## Bitshares
 
@@ -171,3 +173,13 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Core | FC | JS |
 | --- | --- | --- |
 | [Bitethereum-core](https://github.com/BitethereumFoundation/Bitethereum-core) | [bitshares-fc](https://github.com/BitethereumFoundation/bitshares-fc) | [bitsharesjs](https://github.com/BitethereumFoundation/bitsharesjs) |
+
+## Bubbletone
+
+[Project Home page](https://bubbletone.io/)
+
+### Source code:
+
+| Core | FC |
+| --- | --- |
+| [blockchain-telecom.graphene-core](https://github.com/Clementvale-LTD/blockchain-telecom.graphene-core) | [bte-fc](https://github.com/Clementvale-LTD/bte-fc) |
