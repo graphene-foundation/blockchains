@@ -42,6 +42,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### Muse
 
+| Name | URL |
+| --- | --- |
+| JS Lib |  [Muse-JS](https://github.com/themuseblockchain/Muse-JS) |
+
 ### Steem
 
 | Name | URL |
