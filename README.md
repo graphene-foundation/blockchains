@@ -133,6 +133,11 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 [Project Home page](https://www.gravityprotocol.org/)
 
+### Source code
+
+| Core | 
+| --- | 
+| [gravity-core](https://github.com/GravityProtocol/gravity-core) | 
 
 
 ## Golos
