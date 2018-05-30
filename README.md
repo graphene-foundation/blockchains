@@ -62,6 +62,20 @@ Documentation:
 | --- | --- | --- | --- |
 | [doxygen](https://bitshares.org/doxygen/) | | | | 
 
+Explorers:
+
+| Explorer  | Description |
+| --- | --- | 
+| [Open Explorer](http://open-explorer.io) | |
+| [CryptoFresh](http://cryptofresh.com/) | |
+| [Bts.AI](https://bts.ai/) | |
+| [Bitshares Scaner](http://www.bitshares-scaner.org/) | |
+| [Bitshares Explorer](http://bitshares-explorer.io) | Mirror of open-explorer.io |
+| [embedded Wallet explorer ]() | |
+
+
+
+
 Communication:
 
 | Telegram | Discord | Forum |
