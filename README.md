@@ -48,6 +48,8 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### Bitshares
 
+[Project Home page](https://bitshares.org/)
+
 | Name | URL |
 | --- | --- |
 | Python Lib |  [python-bitshares](https://github.com/bitshares/python-bitshares) |
@@ -58,6 +60,8 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Developers Telegram | by invitation |
 
 ### Peerplays
+
+[Project Home page](https://www.peerplays.com/)
 
 | Name | URL |
 | --- | --- |
