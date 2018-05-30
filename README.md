@@ -2,7 +2,7 @@
 
 Telegram: https://t.me/joinchat/Dnlz3xIp3s4vR0InTfAs3w
 
-Graphene and DPOS Blockchains info for developers:
+Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchanges:
 
 | Name | Category | Live | Testnet | Source Code | FC | More |
 | --- | --- | --- | --- | --- | --- | --- |
