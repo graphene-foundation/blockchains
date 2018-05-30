@@ -4,6 +4,23 @@ Telegram: https://t.me/joinchat/Dnlz3xIp3s4vR0InTfAs3w
 
 Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchanges:
 
+* [Finance](#finance)
+  * [Bitshares](#bitshares)
+  * [Gravity](#gravity)
+  * [DasCoin](#dascoin)
+  * [BitEthereum](#bitethereum)
+* [Socio-Economic](#socio-economic)
+  * [Steem](#steem)
+  * [Golos](#golos)
+  * [Smoke](#smoke)
+* [Betting](#betting)
+  * [Peerplays](#peerplays)
+* [Science](#science)
+  * [DEIP](#deip)
+
+
+
+
 | Name | Category | Live | Testnet | Source Code | FC | More |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Bitshares](https://bitshares.org/) | Finance | yes | yes | [bitshares-core](https://github.com/bitshares/bitshares-core) | [bitshares-fc](https://github.com/bitshares/bitshares-fc) | [More](#bitshares) |
