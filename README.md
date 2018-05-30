@@ -86,11 +86,18 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ## EOS
 
+[Project Home page](https://eos.io/)
+
 ## YOYOW
+
+[Project Home page](https://yoyow.org/)
+
 
 ## Scorum
 
 [Project Home page](https://scorumcoins.com/)
+
+### Source code:
 
 | Core | FC | Python | JS | Wallet |
 | --- | --- | --- | --- | --- |
@@ -98,22 +105,43 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ## DECENT
 
-| Name | URL |
-| --- | --- |
-| JS Lib |  [dcorejs-lib](https://github.com/DECENTfoundation/dcorejs-lib) |
+[Project Home page](https://decent.ch/)
+
+### Source code:
+
+| Core | FC | JS | Wallet |
+| --- | --- | --- | --- |
+| [DECENT-Network](https://github.com/DECENTfoundation/DECENT-Network) | [fc](https://github.com/DECENTfoundation/fc) | [dcorejs-lib](https://github.com/DECENTfoundation/dcorejs-lib) | |
 
 ## DEIP
 
+[Project Home page](http://deip.world/)
+
+
 ## DasCoin
+
+[Project Home page](https://dascoin.com)
+
+
 
 ## Gravity
 
+[Project Home page](https://www.gravityprotocol.org/)
+
+
+
 ## Golos
+
+[Project Home page](https://golos.io/)
+
 
 ## Smoke 
 
+[Project Home page](https://smoke.network/)
+
+
 ## BitEthereum
 
-
+[Project Home page](https://www.bitethereum.io)
 
 
