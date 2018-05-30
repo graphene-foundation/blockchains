@@ -13,10 +13,18 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
   * [Steem](#steem)
   * [Golos](#golos)
   * [Smoke](#smoke)
-* [Betting](#betting)
+  * [YOYOW](#yoyow)
+* [Socio-Betting](#socio-betting)
   * [Peerplays](#peerplays)
+  * [Scorum](#scorum)
 * [Science](#science)
   * [DEIP](#deip)
+* [Music](#music)
+  * [Muse](#muse)
+* [Content](#Content)
+  * [DECENT](#decent)  
+* [Smart contracts](#smart-contracts)
+  * [EOS](#eos)  
 
 
 
