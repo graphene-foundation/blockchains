@@ -62,14 +62,7 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 | Core | FC | Python | JS | Wallet |
 | --- | --- | --- | --- | --- |
-| [bitshares-core](https://github.com/bitshares/bitshares-core) | [bitshares-fc](https://github.com/bitshares/bitshares-fc) | [python-bitshares](https://github.com/bitshares/python-bitshares) | [bitsharesjs](https://github.com/bitshares/bitsharesjs) | [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
-
-
-| Name | URL |
-| --- | --- |
-| Python Lib |  [python-peerplays](https://github.com/PBSA/python-peerplays) |
-| JS Lib |  [peerplaysjs-lib](https://github.com/PBSA/peerplaysjs-lib) |
-
+| [peerplays](https://github.com/PBSA/peerplays) | [peerplays-fc](https://github.com/PBSA/peerplays-fc) | [python-peerplays](https://github.com/PBSA/python-peerplays) | [peerplaysjs-lib](https://github.com/PBSA/peerplaysjs-lib) | [peerplays-core-gui](https://github.com/PBSA/peerplays-core-gui) |
 
 ## Muse
 
@@ -77,13 +70,9 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### Source code:
 
-| Core | FC | Python | JS | Wallet |
-| --- | --- | --- | --- | --- |
-| [Muse-Source](https://github.com/themuseblockchain/Muse-Source) | [Muse-FC](https://github.com/themuseblockchain/Muse-FC) | [python-bitshares](https://github.com/bitshares/python-bitshares) | [Muse-JS](https://github.com/themuseblockchain/Muse-JS) | [bitshares-ui](https://github.com/bitshares/bitshares-ui) |
-
-| Name | URL |
-| --- | --- |
-| JS Lib |   |
+| Core | FC | JS | Wallet |
+| --- | --- | --- | --- |
+| [Muse-Source](https://github.com/themuseblockchain/Muse-Source) | [Muse-FC](https://github.com/themuseblockchain/Muse-FC) | [Muse-JS](https://github.com/themuseblockchain/Muse-JS) | [Muse-Wallet](https://github.com/themuseblockchain/Muse-Wallet) |
 
 ## Steem
 
