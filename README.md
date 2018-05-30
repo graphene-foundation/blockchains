@@ -76,13 +76,13 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ## Steem
 
+[Project Home page](https://steemit.com/)
 
+### Source code:
 
-| Name | URL |
-| --- | --- |
-| Python Lib |  [steem-python](https://github.com/steemit/steem-python) 
-| JS Lib |  [steem-js](https://github.com/steemit/steem-js) |
-
+| Core | FC | Python | JS | Wallet |
+| --- | --- | --- | --- | --- |
+| [steem](https://github.com/steemit/steem) | [fc](https://github.com/steemit/fc) | [steem-python](https://github.com/steemit/steem-python) | [steem-js](https://github.com/steemit/steem-js) | [condenser](https://github.com/steemit/condenser) |
 
 ## EOS
 
@@ -90,11 +90,11 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ## Scorum
 
-| Name | URL |
-| --- | --- |
-| Python Lib |  [scorum-python](https://github.com/scorum/scorum-python) |
-| JS Lib |  [scorum-js](https://github.com/scorum/scorum-js) |
+[Project Home page](https://scorumcoins.com/)
 
+| Core | FC | Python | JS | Wallet |
+| --- | --- | --- | --- | --- |
+| [scorum](https://github.com/scorum/scorum)) | [fc](https://github.com/scorum/fc) | [scorum-python](https://github.com/scorum/scorum-python) | [scorum-js](https://github.com/scorum/scorum-js) | |
 
 ## DECENT
 
