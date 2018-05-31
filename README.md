@@ -41,6 +41,7 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### Documentation:
 
+* [Graphene Technical Documentation](http://docs.bitshares.org/)
 * [doxygen](https://bitshares.org/doxygen/)
 
 ### Explorers:
@@ -54,8 +55,9 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ### Community:
 
-* [BitsharesDEX]()
+* [BitsharesDEX](https://t.me/BitSharesDEX)
 * [Discord]()
+* [Steem](https://steemit.com/trending/bitshares)
 
 ## Peerplays
 
@@ -66,6 +68,16 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Core | FC | Python | JS | Wallet |
 | --- | --- | --- | --- | --- |
 | [peerplays](https://github.com/PBSA/peerplays) | [peerplays-fc](https://github.com/PBSA/peerplays-fc) | [python-peerplays](https://github.com/PBSA/python-peerplays) | [peerplaysjs-lib](https://github.com/PBSA/peerplaysjs-lib) | [peerplays-core-gui](https://github.com/PBSA/peerplays-core-gui) |
+
+### Documentation:
+
+* [Main Resources](https://www.peerplays.com/resources/)
+* [python](http://python.peerplays.com/en/master/)
+
+### Community:
+
+* [Peerplays](https://t.me/Peerplays)
+* [Steem](https://steemit.com/@peerplays)
 
 ## Muse
 
