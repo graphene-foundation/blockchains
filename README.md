@@ -47,11 +47,12 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 ### Explorers:
 
 * [Open Explorer](http://open-explorer.io)
+  * [Source code](https://github.com/oxarbitrage/open-explorer)
 * [CryptoFresh](http://cryptofresh.com/)
 * [Bts.AI](https://bts.ai/)
 * [Bitshares Scaner](http://www.bitshares-scaner.org/)
 * [Bitshares Explorer](http://bitshares-explorer.io) - Mirror of open-explorer.io
-* [embedded Wallet explorer ]() 
+* [Embedded Wallet Explorer]() 
 
 ### Community:
 
@@ -154,6 +155,13 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | --- | 
 | [gravity-core](https://github.com/GravityProtocol/gravity-core) | 
 
+### Documentation:
+
+* [gravity-docs](https://github.com/GravityProtocol/gravity-docs)
+
+### Community:
+
+* [Telegram Dev chat](https://t.me/gravity_protocol)
 
 ## Golos
 
