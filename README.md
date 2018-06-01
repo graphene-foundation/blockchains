@@ -75,6 +75,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 * [Main Resources](https://www.peerplays.com/resources/)
 * [python](http://python.peerplays.com/en/master/)
 
+### Explorers:
+
+* [Peerplays DB](https://peerplaysdb.com/)
+
 ### Community:
 
 * [Peerplays](https://t.me/Peerplays)
@@ -89,6 +93,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Core | FC | JS | Wallet |
 | --- | --- | --- | --- |
 | [Muse-Source](https://github.com/themuseblockchain/Muse-Source) | [Muse-FC](https://github.com/themuseblockchain/Muse-FC) | [Muse-JS](https://github.com/themuseblockchain/Muse-JS) | [Muse-Wallet](https://github.com/themuseblockchain/Muse-Wallet) |
+
+### Explorers:
+
+* [Muse DB](https://muse-db.com/)
 
 ## Steem
 
@@ -129,6 +137,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | --- | --- | --- | --- |
 | [DECENT-Network](https://github.com/DECENTfoundation/DECENT-Network) | [fc](https://github.com/DECENTfoundation/fc) | [dcorejs-lib](https://github.com/DECENTfoundation/dcorejs-lib) | |
 
+### Explorers:
+
+* [DECENT explorer](https://explorer.decent.ch/)
+
 ## DEIP
 
 [Project Home page](http://deip.world/)
@@ -144,6 +156,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | --- | --- | 
 | [dascoin-blockchain](https://github.com/techsolutions-ltd/dascoin-blockchain) | [dascoin-fc](https://github.com/techsolutions-ltd/dascoin-fc) | 
 
+### Explorers:
+
+* [Dascoin explorer](https://dascoinexplorer.com/)
+
 
 ## Gravity
 
@@ -158,6 +174,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 ### Documentation:
 
 * [gravity-docs](https://github.com/GravityProtocol/gravity-docs)
+
+### Explorers:
+
+* [Gravity Protocol Explorer](https://explorer.gravityprotocol.org/)
 
 ### Community:
 
