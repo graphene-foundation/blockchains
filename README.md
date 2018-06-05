@@ -137,6 +137,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | --- | --- | --- | --- | --- |
 | [scorum](https://github.com/scorum/scorum) | [fc](https://github.com/scorum/fc) | [scorum-python](https://github.com/scorum/scorum-python) | [scorum-js](https://github.com/scorum/scorum-js) | |
 
+### Explorers:
+
+* [Scorum Explorer](https://explorer.scorum.com/)
+
 ## DECENT
 
 [Project Home page](https://decent.ch/)
