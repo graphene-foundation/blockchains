@@ -113,6 +113,10 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 * [Developer portal](https://developers.steem.io/)
   * [Source code](https://github.com/steemit/devportal)
   
+### Explorers:
+
+* [Steem Block Explorer](https://steemblockexplorer.com/)
+* [Steem DB](https://steemdb.com/)
 
 ## EOS
 
