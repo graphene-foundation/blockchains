@@ -125,7 +125,7 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 ### Source code:
 
 | Core | FC | JS | Wallet |
-| --- | --- | --- | --- | |
+| --- | --- | --- | --- |
 | [eos](https://github.com/EOSIO/eos) | [fc](https://github.com/EOSIO/fc) | [eosjs](https://github.com/EOSIO/eosjs) | [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) |
 
 ## YOYOW
