@@ -136,6 +136,7 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 * [EOS Tracker](https://eostracker.io/)
 * [EOS Monitor](https://eosmonitor.io/)
+* [EOS Vibes](http://explorer.eosvibes.io/)
 
 ## YOYOW
 
