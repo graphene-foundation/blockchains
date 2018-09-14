@@ -28,6 +28,8 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
   * [BlockLink](#blocklink)
 * Telecom:
   * [Bubbletone](#bubbletone)
+* IoT:
+  * [VinChain](#vinchain)
 
 ## Bitshares
 
@@ -271,3 +273,6 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 | Core | FC | Wallet |
 | --- | --- | --- |
 | [blocklink-core](https://github.com/BlockLink/blocklink-core) | [fc](https://github.com/BlockLink/fc) | [blocklink-qt](https://github.com/BlockLink/blocklink-qt) |
+
+## Vinchain
+
