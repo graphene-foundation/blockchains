@@ -276,3 +276,25 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 ## Vinchain
 
+[Project Home page](https://vinchain.io)
+
+### Source code:
+
+| Core | Python | Wallet |
+| --- | --- | --- |
+| [VINchain-blockchain](https://github.com/VinChain/VINchain-blockchain) | [python-vinchain](https://github.com/VinChain/python-vinchain) | [VinChain-UI](https://github.com/VinChain/VinChain-UI) |
+
+### Documentation:
+
+* [Developers](https://vinchain.io/developers)
+* [API docs](https://vinchain.io/api-docs)
+
+### Explorers:
+
+* [Vinchain Block Explorer](https://blockexplorer.vinchain.io/)
+  * [Source code](https://github.com/VinChain/vinchain-open-explorer)
+
+### Community:
+
+* [Telegram](https://t.me/vinchainio)
+
