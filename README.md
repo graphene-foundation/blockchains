@@ -144,6 +144,12 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 [Project Home page](https://yoyow.org/)
 
+### Source code:
+
+| Core | JS-WS | JS-LIB |
+| --- | --- | --- |
+| [yoyow-core](https://github.com/yoyow-org/yoyow-core) | [yoyowjs-ws](https://github.com/yoyow-org/yoyowjs-ws) | [yoyowjs-lib](https://github.com/yoyow-org/yoyowjs-lib) |
+
 
 ## Scorum
 
