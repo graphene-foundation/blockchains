@@ -6,7 +6,6 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 
 * Finance:
   * [Bitshares](#bitshares)
-  * [Gravity](#gravity)
   * [DasCoin](#dascoin)
   * [BitEthereum](#bitethereum)
 * Socio-Economic:
@@ -197,29 +196,6 @@ Graphene and DPOS Blockchains info for developers, witnesses, api nodes, exchang
 ### Explorers:
 
 * [Dascoin explorer](https://dascoinexplorer.com/)
-
-
-## Gravity
-
-[Project Home page](https://www.gravityprotocol.org/)
-
-### Source code
-
-| Core | 
-| --- | 
-| [gravity-core](https://github.com/GravityProtocol/gravity-core) | 
-
-### Documentation:
-
-* [gravity-docs](https://github.com/GravityProtocol/gravity-docs)
-
-### Explorers:
-
-* [Gravity Protocol Explorer](https://explorer.gravityprotocol.org/)
-
-### Community:
-
-* [Telegram Dev chat](https://t.me/gravity_protocol)
 
 ## Golos
 
